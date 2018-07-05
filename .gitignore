@@ -1,2 +1,4 @@
+#Ignore file named 'config.env'
 config.env
+#Ignore folder named 'node_modules'
 node_modules/
